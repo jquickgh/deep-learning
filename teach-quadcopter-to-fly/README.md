@@ -1,1 +1,0 @@
-# teach-quadcopter-to-fly
