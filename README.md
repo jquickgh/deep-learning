@@ -1,12 +1,12 @@
 # Deep Learning Engineer Nanodegree
  
 ### [Traffic Sign Classifier](traffic-sign-classifier)
- - **Deep Learning (Supervised): Classification, Computer Vision, Convolutional Neural Network**
+ - **Deep Learning (Supervised): Computer Vision, Classification**
  - **Summary:** Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting.
  - **Topics:** Deep Learning, TensorFlow, Convolutional Neural Network, Computer Vision
  
 ### [Behavioral Cloning](behavioral-cloning)
- - **Deep Learning (Supervised): Behavioral Cloning, Transfer Learning, Computer Vision**
+ - **Deep Learning (Supervised): Computer Vision, Behavioral Cloning, Transfer Learning**
  - **Summary:** Built and trained a convolutional neural network for end-to-end driving in a simulator, using TensorFlow and Keras. Used optimization techniques such as regularization and dropout to generalize the network for driving on multiple tracks.
  - **Topics:** Deep Learning, TensorFlow, Keras, Convolutional Neural Network, Computer Vision 
 
