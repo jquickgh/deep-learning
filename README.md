@@ -2,6 +2,7 @@
 
 ### [Bike Sharing (MLP)](https://github.com/jquickgh/bike-sharing-mlp)
 <img src="https://github.com/jquickgh/bike-sharing-mlp/blob/master/bike-sharing.jpg" width="258">
+
 - **Deep Learning (Supervised): Computer Vision, Classification**
  
 ### [Dog Breed Classifier (CNN)](https://github.com/jquickgh/dog-breed-classifier-cnn)
