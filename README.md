@@ -8,11 +8,11 @@
  - **Summary:** 
  - **Topics:** Deep Learning, Convolutional Neural Network, Computer Vision
  
-### [Generating Television Scripts](generating-tv-scripts-RNN)
+### [Generating TV Scripts](generating-tv-scripts-RNN)
  - **Summary:** 
  - **Topics:** Deep Learning, Recursive Neural Network (RNN)
  
-### [Generating Faces](generate-face-GAN)
+### [Generating Faces](generate-face-gan)
  - **Summary:** 
  - **Topics:** Deep Learning, Deep Convolutional Generative Adversarial Network (DCGAN)
  
