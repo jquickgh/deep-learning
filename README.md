@@ -3,7 +3,7 @@
 ### [Generate Faces (GAN)](https://github.com/jquickgh/generate-faces-gan)
 - **Deep Learning (Supervised): Computer Vision, Classification**
 - **Topics:** TensorFlow, Convolutional Neural Network (CNN)
-<img src="https://github.com/jquickgh/generate-faces-gan/blob/master/generate-faces.jpg" width="350"> 
+<img src="https://github.com/jquickgh/generate-faces-gan/blob/master/generate-faces.jpg" width="600"> 
 
 ### [Dog Breed Classifier (CNN)](https://github.com/jquickgh/dog-breed-classifier-cnn)
 - **Deep Learning (Supervised): Computer Vision, Classification**
