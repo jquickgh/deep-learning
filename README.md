@@ -1,20 +1,14 @@
 # Deep Learning Engineer Nanodegree
 
 ### [Bike Sharing (MLP)](https://github.com/jquickgh/bike-sharing-mlp)
-
-<img src="https://github.com/jquickgh/bike-sharing-mlp/blob/master/lime-bike.jpg" width="258">
+<img src="https://github.com/jquickgh/bike-sharing-mlp/blob/master/bike-sharing.jpg" width="258">
 
 ### [Dog Breed Classifier (CNN)](https://github.com/jquickgh/dog-breed-classifier-cnn)
- - **Summary:** 
- - **Topics:** Deep Learning, Convolutional Neural Network, Computer Vision
  
 ### [Generate TV Scripts (RNN)](https://github.com/jquickgh/generate-tv-scripts-rnn)
- - **Summary:** 
- - **Topics:** Deep Learning, Recursive Neural Network (RNN)
  
 ### [Generate Faces (GAN)](https://github.com/jquickgh/generate-faces-gan)
- - **Summary:** 
- - **Topics:** Deep Learning, Deep Convolutional Generative Adversarial Network (DCGAN)
+<img src="https://github.com/jquickgh/generate-faces-gan/blob/master/generate-faces.jpg" width="258">
  
  
  
