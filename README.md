@@ -1,4 +1,7 @@
 # Deep Learning Engineer Nanodegree
+<img src="http://www.w3.org/2000/svg">
+
+
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 [![Udacity jjjj- Self-Driving Car NanoDegree](http://www.w3.org/2000/svg)](http://www.udacity.com/drive)
