@@ -1,8 +1,8 @@
 # Deep Learning Engineer Nanodegree
- 
+
 ### [Bike Sharing (MLP)](https://github.com/jquickgh/bike-sharing-mlp)
- - **Summary:** 
- - **Topics:** Multi-Layer Perceptron 
+
+<img src="https://github.com/jquickgh/bike-sharing-mlp/iime-bike.jpg" width="258">
 
 ### [Dog Breed Classifier (CNN)](https://github.com/jquickgh/dog-breed-classifier-cnn)
  - **Summary:** 
