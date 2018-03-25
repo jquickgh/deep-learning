@@ -1,9 +1,7 @@
 # Deep Learning Engineer Nanodegree
 
 ### [Bike Sharing (MLP)](https://github.com/jquickgh/bike-sharing-mlp)
-<table><tr><td>
- <img src="https://github.com/jquickgh/bike-sharing-mlp/blob/master/bike-sharing.jpg" width="258">
-</td></tr></table>
+<img src="https://github.com/jquickgh/bike-sharing-mlp/blob/master/bike-sharing.jpg" width="258">
 
 ### [Dog Breed Classifier (CNN)](https://github.com/jquickgh/dog-breed-classifier-cnn)
  
