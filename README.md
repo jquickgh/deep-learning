@@ -2,6 +2,7 @@
 
 
 <img src="https://github.com/jquickgh/bike-sharing-mlp/blob/master/bike-sharing.jpg" width="258">
+
 ### [Bike Sharing (MLP)](https://github.com/jquickgh/bike-sharing-mlp)
 - **Deep Learning (Supervised): Computer Vision, Classification**
 - **Topics:** TensorFlow, Convolutional Neural Network (CNN)
