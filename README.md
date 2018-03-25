@@ -1,20 +1,22 @@
 # Deep Learning Engineer Nanodegree
  
-### [Bike Sharing](https://github.com/jquickgh/bike-sharing-mlp)
+### [Bike Sharing (MLP)](https://github.com/jquickgh/bike-sharing-mlp)
  - **Summary:** 
  - **Topics:** Multi-Layer Perceptron 
 
-### [Dog Breed Classifier](dog-breed-classifier-cnn)
+### [Dog Breed Classifier (CNN)](https://github.com/jquickgh/dog-breed-classifier-cnn)
  - **Summary:** 
  - **Topics:** Deep Learning, Convolutional Neural Network, Computer Vision
  
-### [Generating TV Scripts](https://github.com/jquickgh/generating-tv-scripts-RNN)
+### [Generating TV Scripts (RNN)](https://github.com/jquickgh/generating-tv-scripts-RNN)
  - **Summary:** 
  - **Topics:** Deep Learning, Recursive Neural Network (RNN)
  
-### [Generating Faces](generate-face-gan)
+### [Generating Faces (GAN)](generate-face-gan)
  - **Summary:** 
  - **Topics:** Deep Learning, Deep Convolutional Generative Adversarial Network (DCGAN)
+ 
+ 
  
  
  
