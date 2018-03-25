@@ -2,7 +2,7 @@
 
 ### [Bike Sharing (MLP)](https://github.com/jquickgh/bike-sharing-mlp)
 
-<img src="https://github.com/jquickgh/bike-sharing-mlp/lime-bike.jpg" width="258">
+<img src="https://github.com/jquickgh/bike-sharing-mlp/blob/master/lime-bike.jpg" width="258">
 
 ### [Dog Breed Classifier (CNN)](https://github.com/jquickgh/dog-breed-classifier-cnn)
  - **Summary:** 
