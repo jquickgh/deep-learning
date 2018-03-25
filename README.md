@@ -4,8 +4,10 @@
 <img src="https://github.com/jquickgh/bike-sharing-mlp/blob/master/bike-sharing.jpg" width="258">
 
 ### [Dog Breed Classifier (CNN)](https://github.com/jquickgh/dog-breed-classifier-cnn)
- 
+<img src="https://github.com/jquickgh/dog-breed-classifier-cnn/blob/master/dog-breed.jpg" width="258"> 
+
 ### [Generate TV Scripts (RNN)](https://github.com/jquickgh/generate-tv-scripts-rnn)
+ <img src="https://github.com/jquickgh/generate-tv-scripts-rnn/blob/master/generate-tv-scripts.jpg" width="258">
  
 ### [Generate Faces (GAN)](https://github.com/jquickgh/generate-faces-gan)
 <img src="https://github.com/jquickgh/generate-faces-gan/blob/master/generate-faces.jpg" width="258">
