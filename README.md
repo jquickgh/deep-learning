@@ -1,6 +1,6 @@
 # Deep Learning Engineer Nanodegree
  
-### [Bike Sharing](bike-sharing-mlp)
+### [Bike Sharing](https://github.com/jquickgh/bike-sharing-mlp)
  - **Summary:** 
  - **Topics:** Multi-Layer Perceptron 
 
