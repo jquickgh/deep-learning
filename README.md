@@ -5,7 +5,7 @@
 - **Topics:** TensorFlow, Generative Adversarial Network (GAN)
 <img src="https://github.com/jquickgh/generate-faces-gan/blob/master/generate-faces.jpg" width="600"> 
 
-### [Dog Breed Classifier](https://github.com/jquickgh/dog-breed-classifier-cnn)
+### [Dog Breed Classifier](https://github.com/jquickgh/dog-breed-classifier/blob/master/dog_app.ipynb)
 - **Deep Learning (Supervised): Computer Vision, Classification**
 - **Topics:** TensorFlow, Keras, Convolutional Neural Network (CNN)
 <img src="https://github.com/jquickgh/dog-breed-classifier-cnn/blob/master/dog-breed.jpg" width="600"> 
