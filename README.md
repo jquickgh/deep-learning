@@ -15,7 +15,7 @@
 - **Topics:** TensorFlow, Keras, Recursive Neural Network (RNN)
 <img src="https://github.com/jquickgh/generate-tv-scripts-rnn/blob/master/the-simpsons.jpg" width="600">
 
-### [Bike Sharing](https://github.com/jquickgh/bike-sharing/blob/master/Your_first_neural_network.ipynb)
+### [Bike Sharing](https://github.com/jquickgh/bike-sharing)
 - **Deep Learning (Supervised): Computer Vision, Classification**
 - **Topics:** TensorFlow, Multi Layer Perceptron (MLP)
 <img src="https://github.com/jquickgh/bike-sharing-mlp/blob/master/lime-bike.jpg" width="600">
